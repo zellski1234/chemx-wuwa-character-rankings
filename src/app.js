@@ -1,6 +1,6 @@
 
 /* =========================================================
-   WUTHERING WAVES — TEAM DPS RANKINGS
+   WUTHERING WAVES — TEAM DPS RANKINGS v1
    List Mode + Team Investment Scatter Graph
 
    GRAPH:
